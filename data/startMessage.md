@@ -1,4 +1,4 @@
-欢迎您，{full_name} （@{username}）
+欢迎您，{full_name}（ @{username} ）
 
 我是Mutu的私人消息转发助手。您的每一条信息，我都会确保快速且准确地送达！
 
